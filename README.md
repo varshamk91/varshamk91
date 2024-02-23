@@ -4,7 +4,6 @@
 - 🌏 I’m from Kochi ,India
  
 <a style="color: blue; text-decoration: none; padding-bottom: 0.3em; border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));font-size: 1.5em;
-
 ">Skills</a>
  
 <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/2f81ec8e-482f-478d-9948-1c0d68bd2c8b" alt="TypeScript" width="36" height="36" max-width="100">
