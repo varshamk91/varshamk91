@@ -1,16 +1,46 @@
-### Hi there 👋
 
-<!--
-**varshamk91/varshamk91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋 I am Varsha M K
+ 
+- 🌏 I’m from Kochi ,India
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+<a style="color: blue; text-decoration: none; padding-bottom: 0.3em; border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));font-size: 1.5em;
+
+">Skills</a>
+ 
+<img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/2f81ec8e-482f-478d-9948-1c0d68bd2c8b" alt="TypeScript" width="36" height="36" max-width="100">
+
+<img src =https://github.com/arunnintriva/arunnintriva/assets/68312594/7cf2d08f-1af4-4b0b-b281-54a9ff047a61  alt="JavaScript" width="36" height="36" max-width="100">
+
+<img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/b4167279-ff73-4d8d-9eac-7cc81dc6c220 alt="Angular" width="36" height="36" max-width="100">
+
+<img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/b9bba5da-c570-46c4-a9fd-514aad263cf8 alt="bootstrap-colored" width="36" height="36" max-width="100">
+
+<img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/44363c78-5fad-4c6c-9ee5-b4fa9daf17bc alt="CSS3" width="36" height="36" max-width="100">
+
+<img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/39eb60f1-d0f3-4747-9e4a-79c1e006d2d3 alt="SASS" width="36" height="36" max-width="100">
+
+<img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/8f52330a-a903-4bb5-a3d5-e3e7e846b2fe alt="HTML%" width="36" height="36" max-width="100">
+
+<img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/5a134eca-945d-40f5-8c45-7a48678133a4 alt="HTML%" width="36" height="36" max-width="100">
+ 
+ 
+### 📫 How to reach me: ...
+
+<div >
+
+<a href="mailto:varshanambiar37@gmail.com?">
+
+<a href="https://github.com/varshamk91/varshamk91">
+
+  <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/dff84cdf-5bb1-4955-ba8c-03527d0a1c41" alt="GitHub" width="35" height="35">
+
+</a>
+
+
+
+
+
+
+</div>
